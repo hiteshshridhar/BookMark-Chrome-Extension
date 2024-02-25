@@ -16,5 +16,3 @@ WORKING OF THE EXTENSION:
   - Write anything in the input field to save it as a link. 
   - You can click on "SAVE TAB" button to fetch the current URL and this will be saved for you. 
   - DOUBLE CLICK on delete button to delete everything from your extension. 
-
-If something does not work: please contact me at shridhar.hitesh@gmail.com
